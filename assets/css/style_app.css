@@ -1,0 +1,30 @@
+#projectDeadline{
+    font-style:italic!important;
+    
+}
+
+.project-data{
+    font-size:14px;
+}
+
+.open{
+    font-weight:bold;
+    color:green;
+}
+
+.closed{
+    font-weight: bold;
+    color:orange;
+}
+
+.italic{
+    font-style:italic;
+}
+
+.toggleResponses{
+    cursor:pointer;
+}
+
+.toggleResponses:hover{
+    text-decoration: underline;
+}
